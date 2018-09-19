@@ -19,8 +19,9 @@ or if it is in room what question it should ask. After it has all the informatio
 make an accustation.
 
 ## Screenshots
-![alt text](https://github.com/JackGeraghty/Cluedo/blob/master/Cluedo_01.PNG)![alt text](https://github.com/JackGeraghty/Cluedo/blob/master/Cluedo_02.PNG)
-![alt text](https://github.com/JackGeraghty/Cluedo/blob/master/Cluedo_03.PNG)
-![alt text](https://github.com/JackGeraghty/Cluedo/blob/master/Cluedo_04.PNG)
-![alt text](https://github.com/JackGeraghty/Cluedo/blob/master/Cluedo_05.PNG)
-![alt text](https://github.com/JackGeraghty/Cluedo/blob/master/Cluedo_06.PNG)
+![alt text](https://github.com/DeBattlinBeen/Cluedo/blob/master/Cluedo_01.PNG)
+![alt text](https://github.com/DeBattlinBeen/Cluedo/blob/master/Cluedo_02.PNG)
+![alt text](https://github.com/DeBattlinBeen/Cluedo/blob/master/Cluedo_03.PNG)
+![alt text](https://github.com/DeBattlinBeen/Cluedo/blob/master/Cluedo_04.PNG)
+![alt text](https://github.com/DeBattlinBeen/Cluedo/blob/master/Cluedo_05.PNG)
+![alt text](https://github.com/DeBattlinBeen/Cluedo/blob/master/Cluedo_06.PNG)
